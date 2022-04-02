@@ -2,4 +2,4 @@
 
 ## Estudiante: Franco Alexander Oviedo
 
-![Yo](me.jpeg)
+<img src="me.jpeg" width="350" />
